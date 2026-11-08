@@ -1,0 +1,14 @@
+.DS_Store
+.vscode/
+.idea/
+build/
+dist/
+__pycache__/
+*.pyc
+*.hex
+*.bin
+*.elf
+.env
+.env.*
+*.pem
+*.key
